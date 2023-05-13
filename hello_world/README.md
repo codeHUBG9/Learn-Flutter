@@ -16,8 +16,7 @@ dependencies {
 // ...
 }
 
-//Gihub access tocken
-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
+
 
 //----some commonds
 
