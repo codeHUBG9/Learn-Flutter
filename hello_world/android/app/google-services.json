@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635427569927",
+    "project_id": "message-app-71c32",
+    "storage_bucket": "message-app-71c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635427569927:android:8f3d6aa364b590e34ec5a2",
+        "android_client_info": {
+          "package_name": "com.example.hello_world_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635427569927-uv7re9ju3sr32qk8r5tmcnrsvfh67op4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hello_world_message",
+            "certificate_hash": "3d30adeb8b3dccaef31a7ddaf6548188639bc5fb"
+          }
+        },
+        {
+          "client_id": "635427569927-rq312p282tmtkack1u4ms5cqjn9lpe5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxiZAAw9SwzydJa2APZMZ7D9FFt7OeCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635427569927-rq312p282tmtkack1u4ms5cqjn9lpe5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
